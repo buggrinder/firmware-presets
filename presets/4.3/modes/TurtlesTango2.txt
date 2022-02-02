@@ -1,8 +1,8 @@
-#$ TITLE: Turtles 4.3 Modes for CRSF Tango2 Quads
+#$ TITLE: Turtles Modes for CRSF Tango2 Quads
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: Tango2, Turtle, mode, modes, adjustments, aux, switch
+#$ KEYWORDS: Tango2, Turtle, mode, modes, aux, switch
 #$ AUTHOR: Stephan Tertel
 #$ DESCRIPTION: Turtles modes for Tango2
 

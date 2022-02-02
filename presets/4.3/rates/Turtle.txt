@@ -1,4 +1,4 @@
-#$ TITLE: Turles rates
+#$ TITLE: Turtles rates
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
