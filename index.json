@@ -162,7 +162,8 @@
       "Sjoer van der Ploeg",
       "Stephan Tertel",
       "sugarK",
-      "SupaflyFPV"
+      "SupaflyFPV",
+      "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
       "\\\\GAS",
@@ -220,6 +221,7 @@
       "diatone",
       "disable",
       "divimath",
+      "DJI",
       "DShot telemetry",
       "E7082VM",
       "ELRS",
@@ -319,6 +321,7 @@
       "sa2.0",
       "sa20",
       "sbus",
+      "SBUS fast",
       "settings",
       "shames",
       "shark bite",
@@ -347,6 +350,7 @@
       "trainer",
       "TRAMP",
       "transition",
+      "transmitter",
       "tune",
       "Turtle",
       "tx800",
@@ -1170,6 +1174,44 @@
       ],
       "author": "Ivan Efimov (Limon)",
       "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/DJI_Normal.txt",
+      "hash": "502da7e4901758251bc6e239d5a48a5a1e2e8b8ff108092040948a2a0d7a5ab4",
+      "title": "DJI Normal",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "DJI",
+        "rc",
+        "link",
+        "transmitter"
+      ],
+      "author": "UAV Tech (Mark Spatz)",
+      "force_options_review": true,
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/DJI_SBUS_Fast.txt",
+      "hash": "8903a50237bdb9b735effce19ae351f4dc1709315f572a2620c198e600035302",
+      "title": "DJI SBUS FAST",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "DJI",
+        "rc",
+        "link",
+        "SBUS fast"
+      ],
+      "author": "UAV Tech (Mark Spatz)",
+      "force_options_review": true,
+      "priority": 10000000000
     },
     {
       "fullPath": "presets/4.3/rc_link/IRC_freestyle.txt",
